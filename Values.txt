@@ -53,7 +53,7 @@ KillAura:Priority:Health
 KillAura:Mode:Switch
 KillAura:APS:16.5
 KillAura:CrackSize:2.0
-KillAura:Reach:4.8
+KillAura:Reach:4.6
 KillAura:Autoblock:true
 KillAura:Players:true
 KillAura:Animals:true
