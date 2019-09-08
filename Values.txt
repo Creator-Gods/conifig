@@ -1,10 +1,30 @@
 HUD:mode:HUD2
+HUD:Tooltip:New
 HUD:information:true
 HUD:rainbow:true
 HUD:logo:true
 HUD:font:true
 HUD:capes:true
-AutoGG:PenShen:false
+HUD:rainbow1Speed:150.0
+HUD:rainbow2Speed:250.0
+HUD:rainbow3Speed:100.0
+HUD:sejei1:100.0
+HUD:sejei2:100.0
+HUD:sejei3:100.0
+HUD:c11:1.0
+HUD:c12:0.8
+HUD:c13:1.0
+HUD:c21:1.0
+HUD:c22:0.8
+HUD:c23:0.9
+HUD:c31:1.0
+HUD:c32:1.0
+HUD:c33:1.0
+KeyStrokes:X:0.0
+KeyStrokes:Y:110.0
+ClickGui:mode:New
+AutoGG:PenShen:true
+AutoL:lmode:PenShen2
 Reach:min:5.0
 Reach:max:7.0
 Reach:combo:false
@@ -22,7 +42,7 @@ Crosshair:Green:255.0
 Crosshair:Blue:255.0
 Crosshair:Alpha:165.0
 Sprint:omni:true
-Animation:Animation:Sigma
+Animation:Animation:Jello
 Animation:SwingAnimation:false
 Radar:Scale:1.0
 Radar:X:850.0
@@ -50,9 +70,9 @@ Aura:AttackMobs:true
 Aura:AttackAnimals:true
 Aura:AttackPlayers:true
 KillAura:ESP:Box
-KillAura:Priority:Range
+KillAura:Priority:Health
 KillAura:Mode:Single
-KillAura:APS:16.5
+KillAura:APS:16.0
 KillAura:CrackSize:1.0
 KillAura:Reach:4.6
 KillAura:Autoblock:true
@@ -61,11 +81,12 @@ KillAura:Animals:true
 KillAura:Mobs:true
 KillAura:Invisibles:true
 KillAura:Show_Name:false
-Die:DamageHealth:80.0
+Damage:DamageHealth:1.0
 AutoClicker:cps:14.0
 AutoClicker:random:1.2
 Velocity:percentage:0.0
-Criticals:mode:HypixelNew
+Criticals:Mode:HPacket
+Criticals:HurtTime:12.0
 Speed:mode:ChinaHypixel
 Speed:WaterCheck:true
 Scoreboard:X:0.0
@@ -75,19 +96,27 @@ Scoreboard:fastbord:true
 Scoreboard:Norednumber:true
 Scoreboard:noServername:false
 Scoreboard:noanyfont:false
-LongJump:mode:NCP
-Fly:mode:Guardian
+LongJump:Mode:NCP
+Fly:Speed:5.0
+Fly:HYPIXELF:6.5
+Fly:Bobbing:false
+Fly:Mode:Hypixel
+Fly:Mode:Fast1
 BoostFly:Bobbing:true
-BoostFly:Stayed:true
-BoostFly:StayDelay:50.0
+ZoomFly:Boost :5.0
+ZoomFly:BoostTime :1.15
+Glide:mode:Vanilla
 AntiFall:OnlyVoid:true
 AntiFall:Distance:5.0
-AntiFall:Height:12.0
+AntiFall:PacketDistance:3.0
+AntiFall:PacketDelay:80.0
 AntiFall:Mode:Hypixel
 Timer:speed:1.2
 NoFall:mode:Hypixel
-FastBow:faithful:false
-AntiBot:mode:Hypixel
+NoSlowdown:mode:Vanilla
+FastBow:faithful:true
+AntiBot:Mode:Hypixel
+AntiBot:AttackNPC:false
 Nametags:healthmode:Hearts
 Nametags:armor:true
 Nametags:durability:true
@@ -98,18 +127,14 @@ ESP:Red:255.0
 ESP:Green:255.0
 ESP:Blue:255.0
 Fucker:Mode:Bed
-Fucker:Reach:6.0
-Fucker:Delay:120.0
-Fucker:Teleport:false
-Fucker2:Mode:Bed
 ChestStealer:delay:100.0
 AutoArmor:delay:200.0
 AutomaticOpening:Speed lagback:true
-AutomaticOpening:AutoTurnOnSpeed:false
+AutomaticOpening:delay:230.0
 BlockOverlay:Red:255.0
 BlockOverlay:Green:255.0
 BlockOverlay:Blue:255.0
-BlockOverlay:RenderString:true
+BlockOverlay:RenderString:false
 AutoHeal:health:3.0
 AutoHeal:delay:400.0
 AutoHeal:jump:true
@@ -121,7 +146,7 @@ Scaffold:Tower:true
 Scaffold:Silent:true
 Scaffold:Mode:Normal
 Scaffold:Bobbing:false
-Scaffold:BSPMode:Zeroday
+Scaffold:ESPMode:none
 Scaffold:Red:255.0
 Scaffold:Green:160.0
 Scaffold:Blue:0.0
@@ -131,9 +156,13 @@ Phase:mode:OldNCP
 Chams:mode:Normal
 BanWave:temp:false
 BanWave:delay:10.0
-BowAimbot:lockview:false
+Reach2:Range:4.5
+BowAimbot:Look:false
+ChestESP:mode:New
+InvCleaner:delay:100.0
 InvCleaner:open inv:false
 Step:ncp:false
+Teleport:mode:Hypixel
 Bobbing+:Amount:1.0
 PinCracker:login:false
 PinCracker:Delay:1.0
@@ -141,4 +170,9 @@ TPAura:speed:100.0
 LagBackCheck:BoostFly lagback:true
 LagBackCheck:Flight lagback:true
 LagBackCheck:Speed lagback:false
-LagBackCheck:Scaffold lagback:true
+LagBackCheck:Scaffold lagback:false
+Inventory+:screenwalk:true
+Inventory+:MoreInventory:false
+AutoGapple:Health:11.0
+AutoGapple:Delay:350.0
+AutoEat:FOODLEVEL:8.5
