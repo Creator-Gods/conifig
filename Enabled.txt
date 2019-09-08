@@ -1,12 +1,18 @@
+AntiForge
 HUD
+AutoGG
+AutoL
+AutoBed
 ModCheck
 Crosshair
+Sprint
 Animation
 AutoTool
 KillAura
 ItemPhysic
 NameProtect
 Velocity
+Criticals
 Speed
 Scoreboard
 Projectiles
@@ -17,7 +23,7 @@ Nametags
 ESP
 FullBright
 TargetHUD
-SpookySkeltal
+FastDig
 AutoArmor
 AutomaticOpening
 BlockOverlay
