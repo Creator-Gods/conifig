@@ -8,11 +8,10 @@ Crosshair
 Sprint
 Animation
 AutoTool
-KillAura
+Aura
 ItemPhysic
 NameProtect
 Velocity
-Criticals
 Speed
 Scoreboard
 Projectiles
@@ -22,6 +21,7 @@ AntiBot
 Nametags
 ESP
 FullBright
+ChestStealer
 TargetHUD
 FastDig
 AutoArmor
@@ -30,6 +30,7 @@ BlockOverlay
 ItemESP
 Chams
 ChestESP
+InvCleaner
 AutoSword
 LagBackCheck
 InvMove
