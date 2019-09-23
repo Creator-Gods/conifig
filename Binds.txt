@@ -51,7 +51,7 @@ Fucker:NONE
 NoRender:NONE
 AntiAFK:NONE
 FullBright:NONE
-ChestStealer:NONE
+ChestStealer:M
 TargetHUD:NONE
 SpookySkeltal:NONE
 FastDig:NONE
@@ -82,7 +82,7 @@ PingSpoof:NONE
 BowAimbot:NONE
 Xray:NONE
 ChestESP:NONE
-InvCleaner:NONE
+InvCleaner:N
 Step:NONE
 Dab:NONE
 Teleport:NONE

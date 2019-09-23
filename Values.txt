@@ -53,8 +53,8 @@ Radar:mode:Round
 Aura:ESP:Box
 Aura:Priority:Health
 Aura:Mode:Switch
-Aura:AttackMode:CrackSize
-Aura:CPS:9.0
+Aura:AttackMode:Hanabi
+Aura:CPS:12.0
 Aura:CrackSize:2.0
 Aura:Reach:4.6
 Aura:AutoBlock:true
@@ -68,8 +68,8 @@ Damage:DamageHealth:1.0
 AutoClicker:cps:14.0
 AutoClicker:random:1.2
 Velocity:percentage:0.0
-Criticals:Mode:HPacket
-Criticals:HurtTime:12.0
+Criticals:Mode:HMinis
+Criticals:HurtTime:15.0
 Speed:Mode:Hypixel
 Speed:LagCheck:true
 Scoreboard:X:0.0
