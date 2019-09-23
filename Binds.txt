@@ -63,7 +63,6 @@ AutoHeal:NONE
 UhcHelp:NONE
 NoRotate:NONE
 Scaffold:G
-DownScaffold:NONE
 ItemESP:NONE
 Sneak:NONE
 SafeWalk:NONE

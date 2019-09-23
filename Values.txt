@@ -54,8 +54,8 @@ Aura:ESP:Box
 Aura:Priority:Health
 Aura:Mode:Switch
 Aura:AttackMode:CrackSize
-Aura:CPS:11.0
-Aura:CrackSize:1.0
+Aura:CPS:9.0
+Aura:CrackSize:2.0
 Aura:Reach:4.6
 Aura:AutoBlock:true
 Aura:KeepSprint:false
@@ -91,7 +91,7 @@ AntiFall:OnlyVoid:true
 AntiFall:Distance:5.0
 AntiFall:Mode:Hypixel
 Timer:speed:1.2
-NoFall:mode:Hypixel
+NoFall:mode:Hypixel2
 NoSlowdown:mode:Vanilla
 FastBow:faithful:false
 AntiBot:Mode:Hypixel
@@ -123,13 +123,13 @@ UhcHelp:Dealy:5000.0
 Scaffold:Mode:Hypixel
 Scaffold:Tower:true
 Scaffold:SAMEY:false
-Scaffold:TOWERMOVE:false
+Scaffold:TOWERMOVE:true
 Scaffold:TOWERMODE:Hypixel
 Scaffold:DELAY:100.0
 Scaffold:AACTOWER:0.4
 Scaffold:LEGIT:1.0
 Scaffold:EXPAND:0.4
-Scaffold:ROT:true
+Scaffold:ROT:false
 Scaffold:noswing:true
 Scaffold:BlockPicker:false
 Jesus:Mode:Dolphin
