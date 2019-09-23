@@ -16,7 +16,6 @@ Animation:NONE
 Radar:NONE
 AutoTool:NONE
 Aura:R
-KillAura:NONE
 ItemPhysic:NONE
 Damage:NONE
 NameProtect:NONE
@@ -26,10 +25,9 @@ Velocity:NONE
 Criticals:NONE
 Speed:V
 Scoreboard:NONE
-LongJump:J
-Fly:Z
-BoostFly:Z
-BoostFly2:F
+LongJump:NONE
+Fly:NONE
+BoostFly:F
 Glide:NONE
 Projectiles:NONE
 AntiFall:P
@@ -53,7 +51,7 @@ Fucker:NONE
 NoRender:NONE
 AntiAFK:NONE
 FullBright:NONE
-ChestStealer:M
+ChestStealer:NONE
 TargetHUD:NONE
 SpookySkeltal:NONE
 FastDig:NONE
@@ -77,7 +75,7 @@ DeathClip:NONE
 NoStrike:NONE
 SkinFlash:NONE
 AutoAccept:NONE
-Blink:NONE
+Blink:B
 BanWave:NONE
 FastUse:NONE
 Reach2:NONE
@@ -85,7 +83,7 @@ PingSpoof:NONE
 BowAimbot:NONE
 Xray:NONE
 ChestESP:NONE
-InvCleaner:N
+InvCleaner:NONE
 Step:NONE
 Dab:NONE
 Teleport:NONE

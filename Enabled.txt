@@ -12,6 +12,7 @@ Aura
 ItemPhysic
 NameProtect
 Velocity
+Speed
 Scoreboard
 Projectiles
 AntiFall
@@ -28,9 +29,7 @@ AutomaticOpening
 BlockOverlay
 ItemESP
 Chams
-Blink
 ChestESP
-InvCleaner
 AutoSword
 LagBackCheck
 InvMove
