@@ -54,7 +54,7 @@ Aura:ESP:Box
 Aura:Priority:Health
 Aura:Mode:Switch
 Aura:AttackMode:CrackSize
-Aura:CPS:9.0
+Aura:CPS:16.0
 Aura:CrackSize:2.0
 Aura:Reach:4.6
 Aura:AutoBlock:true
