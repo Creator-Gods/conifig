@@ -1,5 +1,5 @@
 HUD:mode:HUD2
-HUD:Tooltip:Old
+HUD:Tooltip:New
 HUD:information:true
 HUD:rainbow:true
 HUD:logo:true
