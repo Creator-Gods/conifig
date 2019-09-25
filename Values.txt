@@ -70,7 +70,7 @@ AutoClicker:random:1.2
 Velocity:percentage:0.0
 Criticals:Mode:HMinis
 Criticals:HurtTime:15.0
-Speed:Mode:Hypixel
+Speed:Mode:ChinaHypixel
 Speed:LagCheck:true
 Scoreboard:X:0.0
 Scoreboard:Y:176.0
