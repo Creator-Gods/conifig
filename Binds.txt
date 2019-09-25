@@ -38,6 +38,7 @@ AntiHunger:NONE
 WTap:NONE
 NoSlowdown:NONE
 FastBow:NONE
+FastGame:NONE
 FastFall:NONE
 AntiBot:NONE
 Freecam:NONE
@@ -50,6 +51,7 @@ FastPlace:NONE
 Fucker:NONE
 NoRender:NONE
 AntiAFK:NONE
+AntiFireball:NONE
 FullBright:NONE
 ChestStealer:M
 TargetHUD:NONE
@@ -81,7 +83,7 @@ Reach2:NONE
 PingSpoof:NONE
 BowAimbot:NONE
 Xray:NONE
-ChestESP:NONE
+ChestESP:M
 InvCleaner:N
 Step:NONE
 Dab:NONE
@@ -91,6 +93,7 @@ Boost:NONE
 Bobbing+:NONE
 PinCracker:NONE
 TPAura:NONE
+SuperKB:NONE
 LagBackCheck:NONE
 InvMove:NONE
 Inventory+:NONE
@@ -98,3 +101,5 @@ Teams:NONE
 Eagle:NONE
 AutoGapple:NONE
 AutoEat:NONE
+Parkour:NONE
+SmoothAim:NONE
