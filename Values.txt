@@ -24,7 +24,7 @@ HUD:c33:1.0
 KeyStrokes:X:0.0
 KeyStrokes:Y:110.0
 ClickGui:mode:New
-AutoGG:PenShen:true
+AutoGG:PenShen:false
 AutoL:lmode:PenShen
 Reach:min:5.0
 Reach:max:7.0
@@ -54,8 +54,8 @@ Aura:ESP:Box
 Aura:Priority:Health
 Aura:Mode:Switch
 Aura:AttackMode:CrackSize
-Aura:CPS:14.0
-Aura:CrackSize:2.0
+Aura:CPS:14.5
+Aura:CrackSize:1.5
 Aura:Reach:4.6
 Aura:AutoBlock:true
 Aura:KeepSprint:true
@@ -68,10 +68,10 @@ Damage:DamageHealth:1.0
 AutoClicker:cps:14.0
 AutoClicker:random:1.2
 Velocity:percentage:0.0
-Criticals:Mode:HMinis
-Criticals:HurtTime:15.0
-Speed:Mode:ChinaHypixel
-Speed:LagCheck:true
+Criticals:Mode:HPacket
+Criticals:HurtTime:12.0
+Speed:mode:ChinaHypixel
+Speed:WaterCheck:false
 Scoreboard:X:0.0
 Scoreboard:Y:176.0
 Scoreboard:hideboard:false
@@ -84,14 +84,13 @@ Fly:Speed:5.0
 Fly:HYPIXELF:6.5
 Fly:Bobbing:false
 Fly:Mode:Hypixel
-Fly:Mode:Fast1
-BoostFly:mode:BoostHypixel
+Fly:Mode:Fast2
 Glide:mode:Vanilla
 AntiFall:OnlyVoid:true
 AntiFall:Distance:5.0
 AntiFall:Mode:Hypixel
 Timer:speed:1.2
-NoFall:mode:Hypixel2
+NoFall:mode:Hypixel
 NoSlowdown:mode:NCP
 FastBow:faithful:false
 AntiBot:Mode:Hypixel
@@ -105,10 +104,10 @@ ESP:Red:255.0
 ESP:Green:255.0
 ESP:Blue:255.0
 Fucker:Mode:Bed
-ChestStealer:delay:100.0
+ChestStealer:delay:320.0
 AutoArmor:Delay:200.0
 AutomaticOpening:Speed lagback:true
-AutomaticOpening:delay:230.0
+AutomaticOpening:delay:380.0
 BlockOverlay:Red:255.0
 BlockOverlay:Green:255.0
 BlockOverlay:Blue:255.0
@@ -140,7 +139,7 @@ BanWave:delay:10.0
 Reach2:Range:4.5
 BowAimbot:Look:false
 ChestESP:mode:New
-InvCleaner:delay:100.0
+InvCleaner:delay:320.0
 InvCleaner:open inv:false
 Step:ncp:false
 Teleport:mode:Hypixel
@@ -149,7 +148,7 @@ PinCracker:login:false
 PinCracker:Delay:1.0
 TPAura:speed:100.0
 SuperKB:packets:100.0
-LagBackCheck:BoostFly lagback:true
+LagBackCheck:ZoomFly lagback:true
 LagBackCheck:Flight lagback:true
 LagBackCheck:Speed lagback:false
 LagBackCheck:Scaffold lagback:false

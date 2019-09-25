@@ -1,8 +1,6 @@
 AntiForge
 HUD
 AutoGG
-AutoL
-AutoBed
 ModCheck
 Crosshair
 Sprint
@@ -12,6 +10,8 @@ Aura
 ItemPhysic
 NameProtect
 Velocity
+Criticals
+Speed
 Scoreboard
 Projectiles
 AntiFall
@@ -20,15 +20,11 @@ AntiBot
 Nametags
 ESP
 FullBright
-ChestStealer
 TargetHUD
-FastDig
-AutoArmor
 AutomaticOpening
 BlockOverlay
 ItemESP
 Chams
-ChestESP
 AutoSword
 LagBackCheck
 InvMove
