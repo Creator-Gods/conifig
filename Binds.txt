@@ -26,8 +26,8 @@ Criticals:NONE
 Speed:V
 Scoreboard:NONE
 LongJump:NONE
-Fly:F
-ZoomFly:NONE
+Fly:Z
+ZoomFly:F
 Glide:NONE
 Projectiles:NONE
 AntiFall:P

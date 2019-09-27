@@ -10,7 +10,6 @@ Aura
 ItemPhysic
 NameProtect
 Velocity
-Criticals
 Speed
 Scoreboard
 Projectiles

@@ -52,11 +52,13 @@ Radar:Size:100.0
 Radar:mode:Round
 Aura:ESP:Box
 Aura:Priority:Health
-Aura:Mode:Switch
+Aura:Mode:Single
 Aura:AttackMode:CrackSize
-Aura:CPS:14.5
-Aura:CrackSize:1.5
+Aura:CPS:14.0
+Aura:CrackSize:2.0
 Aura:Reach:4.6
+Aura:MaxTarget:3.0
+Aura:ANGLESTEP:180.0
 Aura:AutoBlock:true
 Aura:KeepSprint:true
 Aura:AutoDis:false
@@ -70,7 +72,7 @@ AutoClicker:random:1.2
 Velocity:percentage:0.0
 Criticals:Mode:HPacket
 Criticals:HurtTime:12.0
-Speed:mode:ChinaHypixel
+Speed:mode:HypixelFast
 Speed:WaterCheck:false
 Scoreboard:X:0.0
 Scoreboard:Y:176.0
@@ -90,7 +92,7 @@ AntiFall:OnlyVoid:true
 AntiFall:Distance:5.0
 AntiFall:Mode:Hypixel
 Timer:speed:1.2
-NoFall:mode:Hypixel
+NoFall:mode:NoGronud
 NoSlowdown:mode:NCP
 FastBow:faithful:false
 AntiBot:Mode:Hypixel
