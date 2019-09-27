@@ -51,13 +51,13 @@ Radar:Y:400.0
 Radar:Size:100.0
 Radar:mode:Round
 Aura:ESP:Box
-Aura:Priority:Health
+Aura:Priority:Range
 Aura:Mode:Single
 Aura:AttackMode:CrackSize
-Aura:CPS:14.0
-Aura:CrackSize:2.0
+Aura:CPS:14.5
+Aura:CrackSize:1.5
 Aura:Reach:4.6
-Aura:MaxTarget:3.0
+Aura:MaxTarget:4.0
 Aura:ANGLESTEP:180.0
 Aura:AutoBlock:true
 Aura:KeepSprint:true
@@ -106,7 +106,7 @@ ESP:Red:255.0
 ESP:Green:255.0
 ESP:Blue:255.0
 Fucker:Mode:Bed
-ChestStealer:delay:320.0
+ChestStealer:delay:120.0
 AutoArmor:Delay:200.0
 AutomaticOpening:Speed lagback:true
 AutomaticOpening:delay:380.0
@@ -140,8 +140,8 @@ BanWave:temp:false
 BanWave:delay:10.0
 Reach2:Range:4.5
 BowAimbot:Look:false
-ChestESP:mode:New
-InvCleaner:delay:320.0
+ChestESP:mode:Old
+InvCleaner:delay:130.0
 InvCleaner:open inv:false
 Step:ncp:false
 Teleport:mode:Hypixel

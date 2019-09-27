@@ -19,11 +19,15 @@ AntiBot
 Nametags
 ESP
 FullBright
+ChestStealer
 TargetHUD
+AutoArmor
 AutomaticOpening
 BlockOverlay
 ItemESP
 Chams
+ChestESP
+InvCleaner
 AutoSword
 LagBackCheck
 InvMove
