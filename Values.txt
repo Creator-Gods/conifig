@@ -51,11 +51,11 @@ Radar:Y:400.0
 Radar:Size:100.0
 Radar:mode:Round
 Aura:ESP:Box
-Aura:Priority:Range
+Aura:Priority:Health
 Aura:Mode:Single
 Aura:AttackMode:CrackSize
-Aura:CPS:14.5
-Aura:CrackSize:1.5
+Aura:MinCPS:12.0
+Aura:MaxCPS:16.0
 Aura:Reach:4.6
 Aura:MaxTarget:4.0
 Aura:ANGLESTEP:180.0
@@ -70,8 +70,7 @@ Damage:DamageHealth:1.0
 AutoClicker:cps:14.0
 AutoClicker:random:1.2
 Velocity:percentage:0.0
-Criticals:Mode:HPacket
-Criticals:HurtTime:12.0
+Criticals:mode:RemixPacket
 Speed:mode:HypixelFast
 Speed:WaterCheck:false
 Scoreboard:X:0.0
@@ -94,7 +93,6 @@ AntiFall:Mode:Hypixel
 Timer:speed:1.2
 NoFall:mode:NoGronud
 NoSlowdown:mode:NCP
-FastBow:faithful:false
 AntiBot:Mode:Hypixel
 Nametags:healthmode:Hearts
 Nametags:armor:true
@@ -106,6 +104,8 @@ ESP:Red:255.0
 ESP:Green:255.0
 ESP:Blue:255.0
 Fucker:Mode:Bed
+AntiFireball:range:4.5
+AntiFireball:rot:true
 ChestStealer:delay:120.0
 AutoArmor:Delay:200.0
 AutomaticOpening:Speed lagback:true
@@ -141,8 +141,7 @@ BanWave:delay:10.0
 Reach2:Range:4.5
 BowAimbot:Look:false
 ChestESP:mode:Old
-InvCleaner:delay:130.0
-InvCleaner:open inv:false
+InvCleaner:Toggle:false
 Step:ncp:false
 Teleport:mode:Hypixel
 Bobbing+:Amount:1.0
@@ -154,8 +153,6 @@ LagBackCheck:ZoomFly lagback:true
 LagBackCheck:Flight lagback:true
 LagBackCheck:Speed lagback:false
 LagBackCheck:Scaffold lagback:false
-Inventory+:screenwalk:true
-Inventory+:MoreInventory:false
 AutoGapple:Health:11.0
 AutoGapple:Delay:350.0
 AutoEat:FOODLEVEL:8.5

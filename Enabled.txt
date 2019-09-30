@@ -10,7 +10,7 @@ Aura
 ItemPhysic
 NameProtect
 Velocity
-Speed
+Criticals
 Scoreboard
 Projectiles
 AntiFall
@@ -28,7 +28,6 @@ ItemESP
 Chams
 ChestESP
 InvCleaner
-AutoSword
 LagBackCheck
 InvMove
 Teams
