@@ -26,9 +26,9 @@ Velocity:NONE
 Criticals:NONE
 Speed:V
 Scoreboard:NONE
-LongJump:J
-Fly:NONE
-ZoomFly:NONE
+LongJump:NONE
+Fly:Z
+ZoomFly:F
 Glide:NONE
 Projectiles:NONE
 AntiFall:P
@@ -56,11 +56,12 @@ ChestStealer:M
 ChestAura:NONE
 TargetHUD:NONE
 SpookySkeltal:NONE
-FastDig:NONE
+SpeedMine:NONE
 AutoArmor:NONE
 AutomaticOpening:NONE
 BlockOverlay:NONE
 NoHurtCam:NONE
+FPSHurtCam:NONE
 AutoHeal:NONE
 UhcHelp:NONE
 NoRotate:NONE
@@ -76,10 +77,9 @@ DeathClip:NONE
 NoStrike:NONE
 SkinFlash:NONE
 AutoAccept:NONE
-Blink:NONE
+Blink:B
 BanWave:NONE
 FastUse:NONE
-Reach2:NONE
 PingSpoof:NONE
 BowAimbot:NONE
 Xray:NONE
@@ -101,3 +101,5 @@ AutoGapple:NONE
 AutoEat:NONE
 Parkour:NONE
 SmoothAim:NONE
+Emote:NONE
+PacketMotior:NONE
